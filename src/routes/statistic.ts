@@ -3,7 +3,7 @@ import statisticController from "../controller/statisticController";
 
 const router = express.Router();
 
-//Statistic
+//Statistics
 router.get(
   "/:restaurantId",
 
